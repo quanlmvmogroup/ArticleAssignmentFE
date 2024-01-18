@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post 1",
+      "article": "J.K Rowling",
+      "createDate": "2024-01-10",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisi quam, sollicitudin vel neque ornare, tincidunt tempor odio. Suspendisse tempor quis augue quis efficitur. Etiam consequat metus ut nunc commodo, sit amet finibus metus tempor. Nunc porta, turpis sit amet rhoncus mattis, orci nibh volutpat metus, sit amet rutrum nisi lacus id dui. Nulla malesuada ipsum nunc, sit amet consequat leo congue non."
+    },
+    {
+      "id": "2",
+      "title": "Post 2",
+      "article": "Thomas Harris",
+      "createDate": "2024-01-19",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisi quam, sollicitudin vel neque ornare, tincidunt tempor odio. Suspendisse tempor quis augue quis efficitur. Etiam consequat metus ut nunc commodo, sit amet finibus metus tempor. Nunc porta, turpis sit amet rhoncus mattis, orci nibh volutpat metus, sit amet rutrum nisi lacus id dui. Nulla malesuada ipsum nunc, sit amet consequat leo congue non."
+    },
+    {
+      "id": "3",
+      "title": "Post 3",
+      "article": "Christine",
+      "createDate": "2024-01-10",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisi quam, sollicitudin vel neque ornare, tincidunt tempor odio. Suspendisse tempor quis augue quis efficitur. Etiam consequat metus ut nunc commodo, sit amet finibus metus tempor. Nunc porta, turpis sit amet rhoncus mattis, orci nibh volutpat metus, sit amet rutrum nisi lacus id dui. Nulla malesuada ipsum nunc, sit amet consequat leo congue non."
+    },
+    {
+      "id": "b739fc8c-af3b-43ee-bdad-e2e56369cf0b",
+      "title": "New Post",
+      "summary": "sadsadsadsdasdsaddddddddddddddddddddddddddddddxxxxxxxxxxxxxxxx",
+      "article": "Admin",
+      "createDate": "2024-01-11"
+    },
+    {
+      "id": "0bfb187b-c798-472f-af80-3ff5197ce793",
+      "title": "Post 1",
+      "article": "J.K Rowling",
+      "createDate": "2024-01-10",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisi quam, sollicitudin vel neque ornare, tincidunt tempor odio. Suspendisse tempor quis augue quis efficitur. Etiam consequat metus ut nunc commodo, sit amet finibus metus tempor. Nunc porta, turpis sit amet rhoncus mattis, orci nibh volutpat metus, sit amet rutrum nisi lacus id dui. Nulla malesuada ipsum nunc, sit amet consequat leo congue non."
+    }
+  ]
+}
